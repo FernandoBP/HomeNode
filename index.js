@@ -1,0 +1,1 @@
+console.log(sum(7+4))
